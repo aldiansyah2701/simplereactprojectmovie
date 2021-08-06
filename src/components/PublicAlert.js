@@ -14,7 +14,7 @@ const PublicAlert =() => {
     return (
         <div>    
             <img src={logo} className="App-logo" alt="logo" />
-            <h1> Welcome to my simple app</h1>
+            <h1> Welcome to my simple app movie</h1>
 
         </div>
     );
